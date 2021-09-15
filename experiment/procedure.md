@@ -2,15 +2,19 @@
  
 &nbsp;
 
-Waste water collected from lake.
-Acetate buffer (pH = 4)
-Ammonium buffer (pH = 10)
-pH meter
-Tissue paper
+1. Waste water collected from lake.
+2. Acetate buffer (pH = 4)
+3. Ammonium buffer (pH = 10)
+4. pH meter
+5. Tissue paper
  
+ 
+&nbsp;
 
 ## Procedure:
  
+ 
+&nbsp;
 
 1. Collect water from the polluted lake and transfer it into a beaker.
 2. Switch on the pH meter.
