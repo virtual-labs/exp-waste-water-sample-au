@@ -1,0 +1,47 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.A pH meter consists of",
+      "answers": {
+        "a": "Reference electrode",
+        "b": "Glass electrode",
+        "c": "Calomel electrode",
+        "d": "All the above"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Nature Of Ammonium buffer is",
+      "answers": {
+        "a": "Neutral",
+        "b": "Acidic",
+        "c": "Amphoteric",
+        "d": "Basic"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.pH meter should be calibrated before measurement.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.High H+ ion concentration in the buffer indicates",
+      "answers": {
+        "a": "Buffer is neutral in nature",
+        "b": "Buffer is acidic in nature",
+        "c": "Buffer is basic in nature",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
